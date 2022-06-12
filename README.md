@@ -10,3 +10,12 @@ callable functions:
 
 internal functions
 - calculate the amount of relative stake of each depositor to the total amount
+
+
+## todo
+
+- [ ] get basic contract working
+- [ ] make a simple react ui to interact with it
+- [ ] run locally
+- [ ] deploy programatically 
+- [ ] deploy to ftm
